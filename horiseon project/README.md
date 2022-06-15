@@ -3,6 +3,7 @@
 ***
 
 ### General Info
+Heres a list of what was refactored.
 
 ## Screenshot
 
