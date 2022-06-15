@@ -8,7 +8,7 @@ Fixed indentations. Added alt attribute to all img. Changed and Added semantic e
 
 ## Screenshot
 
-![alt text](Develop/assets/images/screencapture-file-C-Users-bn3l1-projects-horiseon-project-Develop-index-html-2022-06-15-14_15_02.png "horiseon screenshot" )
+![alt text](Develop/assets/images/screencapture-file-C-Users-bn3l1-projects-horiseon-project-Develop-index-html-2022-06-15-14_31_34.png "horiseon screenshot")
 
 
 ## Link to Deployed Application
